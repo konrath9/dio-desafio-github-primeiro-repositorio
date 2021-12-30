@@ -1,0 +1,10 @@
+Comandos úteis do Git:
+
+git init
+git add (nomeArquivo)
+git add *
+git status
+git commit -m "comentário"
+git push origin master
+git clone (repositorioGithub)
+git pull origin master
